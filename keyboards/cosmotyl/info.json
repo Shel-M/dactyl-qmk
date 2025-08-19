@@ -4,8 +4,8 @@
     "url": "ryanis.cool/cosmos",
     "maintainer": "Cosmos",
     "usb": {
-        "vid": "0x0001",
-        "pid": "0x0001",
+        "vid": "0x444D",
+        "pid": "0x3539",
         "device_version": "0.0.1"
     },
     "processor": "RP2040",

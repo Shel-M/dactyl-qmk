@@ -1,7 +1,7 @@
 {
   "name": "cosmotyl",
-  "vendorId": "0x0001",
-  "productId": "0x0001",
+  "vendorId": "0x444D",
+  "productId": "0x3539",
   "matrix": {
     "rows": 14,
     "cols": 7
