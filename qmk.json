@@ -32,6 +32,23 @@
                 "MAKECMDGOALS": "uf2-split-right",
                 "TARGET": "cosmotyl_via_right"
             }
+        ],
+
+        [
+            "cosmos/cosmotyl",
+            "vial",
+            {
+                "MAKECMDGOALS": "uf2-split-left",
+                "TARGET": "cosmotyl_vial_left"
+            }
+        ],
+        [
+            "cosmos/cosmotyl",
+            "vial",
+            {
+                "MAKECMDGOALS": "uf2-split-right",
+                "TARGET": "cosmotyl_vial_right"
+            }
         ]
     ]
 }

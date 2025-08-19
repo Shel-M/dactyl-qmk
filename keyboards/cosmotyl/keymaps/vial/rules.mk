@@ -2,3 +2,4 @@ VIAL_ENABLE = yes
 VIA_ENABLE = yes
 
 VIAL_INSECURE = yes
+SPLIT_KEYBOARD = yes
